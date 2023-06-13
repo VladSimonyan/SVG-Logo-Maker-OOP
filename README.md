@@ -22,3 +22,6 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
+
+
+![image](https://github.com/VladSimonyan/SVG-Logo-Maker-OOP/assets/129136870/1531eb5f-a801-4253-9b9c-fb62dcea80d7)
