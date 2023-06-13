@@ -1,4 +1,3 @@
-
 const colorKeywords = require('./color.js')
 
 const questions = [
