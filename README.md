@@ -1,7 +1,7 @@
 # SVG-Logo-Maker-OOP
 
 
-In this Project a user is able to generate there own logo. The user is able to select there own shape, color, text of their logo.
+In this Project a user is able to generate there own logo. The user is able to select there own shape, color, and text for their logo.
 The program asks questions that the user answers to create their logo in their own style.
 
 AS a freelance web developer
