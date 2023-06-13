@@ -10,7 +10,6 @@ const questions = [
     },
 
    
-   
     {
         name: 'shapeColorChoice',
         message: 'What is the color of the shape? Choose a color format: ',
@@ -56,7 +55,6 @@ const questions = [
             return true;
         }
     },
-
    
     {
         name: 'text',
@@ -69,7 +67,6 @@ const questions = [
             return true;
         }
     },
-
    
     {
         name: 'textColorChoice',
